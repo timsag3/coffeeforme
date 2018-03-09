@@ -39,7 +39,7 @@ HOW TO USE (users interfaces)
  1. Using this program more easily than it's setup. The program will automatically detect
     your role and direct you to the right interface. You only need to login as user:
 
-        python main.py -id your_id
+        python main.py -id user_id
 
  2. Seller interface contains two commands: "Make a sell" ("1" key) and "Show the menu" ("2" key).
     "Make a sell" command will ask seller about client order then commit data to the
