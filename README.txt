@@ -1,5 +1,5 @@
-coffeeforme(1.2) package
-======================
+coffeeforme (version 1.2)
+=========================
 
 This package is a command-line interactive program for CoffeeForMe cafe workers.
 The program supports the compatibility of Python2 and Python3 versions.
@@ -39,7 +39,7 @@ HOW TO USE (users interfaces)
  1. Using this program more easily than it's setup. The program will automatically detect
     your role and direct you to the right interface. You only need to login as user:
 
-    python main.py -id your_id
+        python main.py -id your_id
 
  2. Seller interface contains two commands: "Make a sell" ("1" key) and "Show the menu" ("2" key).
     "Make a sell" command will ask seller about client order then commit data to the
@@ -87,5 +87,5 @@ CONTACT
 
 Please send bug reports and other feedback to
 
-  timsagepy@gmail.com
+    timsagepy@gmail.com
 
