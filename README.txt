@@ -1,7 +1,7 @@
 coffeeforme (version 1.2)
 =========================
 
-This package is a command-line interactive program for CoffeeForMe cafe workers.
+This package is a command-line interactive interface for CoffeeForMe cafe workers.
 The program supports the compatibility of Python2 and Python3 versions.
 Runs on Linux and Windows operating systems.
 
